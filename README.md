@@ -5,22 +5,6 @@
 ### TL;DR
 IES (Instance-dependent Early Stopping) advances the concept of early stopping by applying it at the individual instance level, achieving training speedup without compromising model performance.
 
-<br>
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 0 0 28%; margin-right: 20px;">
-    <img src="./figure1.png" alt="Figure 1" style="width: 100%; height: auto;">
-  </div>
-  <div style="flex: 1;">
-    <p>
-      Effectiveness of Instance-dependent Early Stopping (IES) on ImageNet-1k and CIFAR-10 datasets.
-      <br>      
-      Top row: Test accuracy over the course of training, showing that IES (Ours) achieves comparable accuracy to the baseline (No Removal) despite training on fewer samples.
-      <br>
-      Bottom row: Number of training samples excluded from backpropagation by IES over the course of training. As the model masters more and more samples during the training process, IES allows an increasing number of these <em>mastered</em> samples to be excluded from backpropagation, significantly reducing computation while still maintaining the same performance as the baseline method.
-    </p>
-  </div>
-</div>
-
 ### BibTeX
 ```bibtex
 @inproceedings{
