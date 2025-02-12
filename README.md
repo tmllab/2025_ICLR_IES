@@ -1,5 +1,5 @@
 <h2 align="center">Instance-dependent Early Stopping</h2>
-<p align="center"><b>ICLR 2025 Poster</b> | <a href="https://openreview.net/pdf?id=P42DbV2nuV">[Paper]</a> | <a href="https://github.com/tmllab/2025_ICLR_IES">[Code]</a> </p>
+<p align="center"><b>ICLR 2025 Spotlight</b> | <a href="https://openreview.net/pdf?id=P42DbV2nuV">[Paper]</a> | <a href="https://github.com/tmllab/2025_ICLR_IES">[Code]</a> </p>
 <p align="center"> <a href="https://suqinyuan.github.io">Suqin Yuan</a>, <a href="https://runqilin.github.io">Runqi Lin</a>,  <a href="https://lfeng1995.github.io">Lei Feng</a>, <a href="https://bhanml.github.io">Bo Han</a>, <a href="https://tongliang-liu.github.io">Tongliang Liu</a> </p>
 
 ### TL;DR
