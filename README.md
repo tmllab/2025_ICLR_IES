@@ -32,3 +32,5 @@ python3 cifar_main.py --dataset cifar100 --model resnet34
 To run the examples with baseline, add `--threshold 0`.
 
 The training efficiency can be further improved by adjusting the `--threshold` parameter. We set the default base threshold to `1e-3`, and recommend tuning it between `1e-1` and `1e-5` to achieve different trade-offs between training speed and model performance.
+
+Contact: Suqin Yuan (suqinyuan.cs@gmail.com).
